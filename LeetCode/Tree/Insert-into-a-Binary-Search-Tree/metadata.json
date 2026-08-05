@@ -1,0 +1,17 @@
+{
+  "title": "Insert into a Binary Search Tree",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/2095283870/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 47164000,
+  "tags": [
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "acceptedAt": "2026-08-05T12:17:11.000Z",
+  "contest": null,
+  "problemId": "insert-into-a-binary-search-tree"
+}
