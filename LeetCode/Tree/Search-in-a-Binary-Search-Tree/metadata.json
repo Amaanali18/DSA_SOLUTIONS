@@ -1,0 +1,17 @@
+{
+  "title": "Search in a Binary Search Tree",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/2095257653/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 46804000,
+  "tags": [
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "acceptedAt": "2026-08-05T11:48:20.000Z",
+  "contest": null,
+  "problemId": "search-in-a-binary-search-tree"
+}
