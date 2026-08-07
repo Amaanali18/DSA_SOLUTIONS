@@ -1,0 +1,19 @@
+{
+  "title": "Convert Sorted Array to Binary Search Tree",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/submissions/2097916699/?envType=problem-list-v2&envId=binary-search-tree",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 44968000,
+  "tags": [
+    "Array",
+    "Divide and Conquer",
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "acceptedAt": "2026-08-07T12:13:36.000Z",
+  "contest": null,
+  "problemId": "convert-sorted-array-to-binary-search-tree"
+}
