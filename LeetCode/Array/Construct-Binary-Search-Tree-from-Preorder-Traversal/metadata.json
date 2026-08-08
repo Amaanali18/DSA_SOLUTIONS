@@ -1,0 +1,20 @@
+{
+  "title": "Construct Binary Search Tree from Preorder Traversal",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/submissions/2098636950/?envType=problem-list-v2&envId=binary-search-tree",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 43264000,
+  "tags": [
+    "Array",
+    "Stack",
+    "Tree",
+    "Binary Search Tree",
+    "Monotonic Stack",
+    "Binary Tree"
+  ],
+  "acceptedAt": "2026-08-08T04:51:24.000Z",
+  "contest": null,
+  "problemId": "construct-binary-search-tree-from-preorder-traversal"
+}
