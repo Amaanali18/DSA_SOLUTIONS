@@ -1,0 +1,17 @@
+{
+  "title": "Delete Node in a BST",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/delete-node-in-a-bst/submissions/2099064900/?envType=problem-list-v2&envId=binary-search-tree",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 47472000,
+  "tags": [
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "acceptedAt": "2026-08-08T12:08:07.000Z",
+  "contest": null,
+  "problemId": "delete-node-in-a-bst"
+}
