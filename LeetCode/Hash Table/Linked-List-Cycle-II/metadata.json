@@ -1,0 +1,18 @@
+{
+  "title": "Linked List Cycle II",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/linked-list-cycle-ii/submissions/2101229094/?envType=problem-list-v2&envId=linked-list",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 46520000,
+  "tags": [
+    "Hash Table",
+    "Linked List",
+    "Two Pointers",
+    "Floyd's Cycle Finding Algorithm"
+  ],
+  "acceptedAt": "2026-08-10T07:36:43.000Z",
+  "contest": null,
+  "problemId": "linked-list-cycle-ii"
+}
