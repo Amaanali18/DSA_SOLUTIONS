@@ -1,0 +1,19 @@
+{
+  "title": "Sort List",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/sort-list/submissions/2101259806/?envType=problem-list-v2&envId=linked-list",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 10,
+  "memory": 59220000,
+  "tags": [
+    "Linked List",
+    "Two Pointers",
+    "Divide and Conquer",
+    "Sorting",
+    "Merge Sort"
+  ],
+  "acceptedAt": "2026-08-10T08:14:00.000Z",
+  "contest": null,
+  "problemId": "sort-list"
+}
