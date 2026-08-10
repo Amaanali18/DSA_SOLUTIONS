@@ -1,0 +1,16 @@
+{
+  "title": "Rotate List",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/rotate-list/submissions/2101011593/?envType=problem-list-v2&envId=linked-list",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 44216000,
+  "tags": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "acceptedAt": "2026-08-10T04:06:00.000Z",
+  "contest": null,
+  "problemId": "rotate-list"
+}
