@@ -1,0 +1,21 @@
+{
+  "title": "Two Sum IV - Input is a BST",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/submissions/2100950143/?envType=problem-list-v2&envId=binary-search-tree",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 3,
+  "memory": 47256000,
+  "tags": [
+    "Hash Table",
+    "Two Pointers",
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "acceptedAt": "2026-08-10T02:21:09.000Z",
+  "contest": null,
+  "problemId": "two-sum-iv-input-is-a-bst"
+}
