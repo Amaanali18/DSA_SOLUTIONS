@@ -1,0 +1,16 @@
+{
+  "title": "Insertion Sort List",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/insertion-sort-list/submissions/2101261258/?envType=problem-list-v2&envId=linked-list",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 46560000,
+  "tags": [
+    "Linked List",
+    "Sorting"
+  ],
+  "acceptedAt": "2026-08-10T08:15:38.000Z",
+  "contest": null,
+  "problemId": "insertion-sort-list"
+}
