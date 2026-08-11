@@ -1,0 +1,18 @@
+{
+  "title": "Spiral Matrix IV",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/spiral-matrix-iv/submissions/2102753358/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 6,
+  "memory": 133884000,
+  "tags": [
+    "Array",
+    "Linked List",
+    "Matrix",
+    "Simulation"
+  ],
+  "acceptedAt": "2026-08-11T11:30:17.000Z",
+  "contest": null,
+  "problemId": "spiral-matrix-iv"
+}
