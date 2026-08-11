@@ -1,0 +1,17 @@
+{
+  "title": "Spiral Matrix",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/spiral-matrix/submissions/2102751750/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 43120000,
+  "tags": [
+    "Array",
+    "Matrix",
+    "Simulation"
+  ],
+  "acceptedAt": "2026-08-11T11:28:32.000Z",
+  "contest": null,
+  "problemId": "spiral-matrix"
+}
