@@ -1,0 +1,17 @@
+{
+  "title": "Rotting Oranges",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/rotting-oranges/submissions/2105052072/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 3,
+  "memory": 45148000,
+  "tags": [
+    "Array",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "acceptedAt": "2026-08-13T06:13:57.000Z",
+  "contest": null,
+  "problemId": "rotting-oranges"
+}
