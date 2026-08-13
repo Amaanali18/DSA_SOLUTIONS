@@ -1,0 +1,18 @@
+{
+  "title": "Longest Palindromic Substring",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/longest-palindromic-substring/submissions/2105011390/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 22,
+  "memory": 47052000,
+  "tags": [
+    "Two Pointers",
+    "String",
+    "Dynamic Programming",
+    "Manacher"
+  ],
+  "acceptedAt": "2026-08-13T05:38:10.000Z",
+  "contest": null,
+  "problemId": "longest-palindromic-substring"
+}
