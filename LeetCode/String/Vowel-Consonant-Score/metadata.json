@@ -1,0 +1,16 @@
+{
+  "title": "Vowel-Consonant Score",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/vowel-consonant-score/",
+  "difficulty": "Unrated",
+  "language": "java",
+  "runtime": 0,
+  "memory": 0,
+  "tags": [
+    "String",
+    "Simulation"
+  ],
+  "acceptedAt": "2026-08-14T14:19:21.884Z",
+  "contest": null,
+  "problemId": "vowel-consonant-score"
+}
