@@ -1,0 +1,16 @@
+{
+  "title": "Longest Subsequence With Non-Zero Bitwise XOR",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/submissions/2107236456/?envType=daily-question&envId=2026-08-15",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 2,
+  "memory": 133660000,
+  "tags": [
+    "Array",
+    "Bit Manipulation"
+  ],
+  "acceptedAt": "2026-08-15T05:14:02.000Z",
+  "contest": null,
+  "problemId": "longest-subsequence-with-non-zero-bitwise-xor"
+}
