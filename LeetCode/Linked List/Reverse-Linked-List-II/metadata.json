@@ -1,0 +1,15 @@
+{
+  "title": "Reverse Linked List II",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/reverse-linked-list-ii/submissions/2107206686/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 42712000,
+  "tags": [
+    "Linked List"
+  ],
+  "acceptedAt": "2026-08-15T04:34:39.000Z",
+  "contest": null,
+  "problemId": "reverse-linked-list-ii"
+}
