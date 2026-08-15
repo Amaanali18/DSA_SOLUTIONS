@@ -1,0 +1,15 @@
+{
+  "title": "String to Integer (atoi)",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/string-to-integer-atoi/submissions/2107668775/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 43660000,
+  "tags": [
+    "String"
+  ],
+  "acceptedAt": "2026-08-15T13:06:27.000Z",
+  "contest": null,
+  "problemId": "string-to-integer-atoi"
+}
