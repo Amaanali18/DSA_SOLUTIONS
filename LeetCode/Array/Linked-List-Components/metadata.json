@@ -1,0 +1,17 @@
+{
+  "title": "Linked List Components",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/linked-list-components/submissions/2108939968/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 8,
+  "memory": 47364000,
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Linked List"
+  ],
+  "acceptedAt": "2026-08-16T12:03:21.000Z",
+  "contest": null,
+  "problemId": "linked-list-components"
+}
