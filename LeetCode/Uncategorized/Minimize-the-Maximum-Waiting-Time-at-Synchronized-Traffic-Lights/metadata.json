@@ -1,0 +1,13 @@
+{
+  "title": "Minimize the Maximum Waiting Time at Synchronized Traffic Lights",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/minimize-the-maximum-waiting-time-at-synchronized-traffic-lights/submissions/2108540584/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 4,
+  "memory": 115888000,
+  "tags": [],
+  "acceptedAt": "2026-08-16T04:53:27.000Z",
+  "contest": null,
+  "problemId": "minimize-the-maximum-waiting-time-at-synchronized-traffic-lights"
+}
