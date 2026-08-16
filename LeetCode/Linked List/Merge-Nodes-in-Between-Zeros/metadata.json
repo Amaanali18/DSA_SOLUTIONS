@@ -1,0 +1,16 @@
+{
+  "title": "Merge Nodes in Between Zeros",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/merge-nodes-in-between-zeros/submissions/2108945570/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 4,
+  "memory": 225448000,
+  "tags": [
+    "Linked List",
+    "Simulation"
+  ],
+  "acceptedAt": "2026-08-16T12:09:30.000Z",
+  "contest": null,
+  "problemId": "merge-nodes-in-between-zeros"
+}
