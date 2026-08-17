@@ -1,0 +1,18 @@
+{
+  "title": "Partition String ",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/partition-string/submissions/2109682419/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 258,
+  "memory": 89856000,
+  "tags": [
+    "Hash Table",
+    "String",
+    "Trie",
+    "Simulation"
+  ],
+  "acceptedAt": "2026-08-17T04:57:09.000Z",
+  "contest": null,
+  "problemId": "partition-string"
+}
