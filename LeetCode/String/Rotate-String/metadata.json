@@ -1,0 +1,16 @@
+{
+  "title": "Rotate String",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/rotate-string/submissions/2109660451/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 43208000,
+  "tags": [
+    "String",
+    "String Matching"
+  ],
+  "acceptedAt": "2026-08-17T04:34:23.000Z",
+  "contest": null,
+  "problemId": "rotate-string"
+}
