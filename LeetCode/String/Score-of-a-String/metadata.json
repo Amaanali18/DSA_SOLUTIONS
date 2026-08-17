@@ -1,0 +1,15 @@
+{
+  "title": "Score of a String",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/score-of-a-string/submissions/2109875221/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 43420000,
+  "tags": [
+    "String"
+  ],
+  "acceptedAt": "2026-08-17T08:14:23.000Z",
+  "contest": null,
+  "problemId": "score-of-a-string"
+}
