@@ -1,0 +1,16 @@
+{
+  "title": "String Compression",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/string-compression/submissions/2109652132/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 45112000,
+  "tags": [
+    "Two Pointers",
+    "String"
+  ],
+  "acceptedAt": "2026-08-17T04:25:38.000Z",
+  "contest": null,
+  "problemId": "string-compression"
+}
