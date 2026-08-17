@@ -1,0 +1,18 @@
+{
+  "title": "First Unique Character in a String",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/first-unique-character-in-a-string/submissions/2109595941/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 5,
+  "memory": 46532000,
+  "tags": [
+    "Hash Table",
+    "String",
+    "Queue",
+    "Counting"
+  ],
+  "acceptedAt": "2026-08-17T03:00:07.000Z",
+  "contest": null,
+  "problemId": "first-unique-character-in-a-string"
+}
