@@ -1,0 +1,16 @@
+{
+  "title": "Hash Divided String",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/hash-divided-string/submissions/2109863426/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 2,
+  "memory": 46580000,
+  "tags": [
+    "String",
+    "Simulation"
+  ],
+  "acceptedAt": "2026-08-17T07:59:09.000Z",
+  "contest": null,
+  "problemId": "hash-divided-string"
+}
