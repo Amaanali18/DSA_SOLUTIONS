@@ -1,0 +1,16 @@
+{
+  "title": "Shuffle String",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/shuffle-string/submissions/2109666859/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 45488000,
+  "tags": [
+    "Array",
+    "String"
+  ],
+  "acceptedAt": "2026-08-17T04:41:19.000Z",
+  "contest": null,
+  "problemId": "shuffle-string"
+}
