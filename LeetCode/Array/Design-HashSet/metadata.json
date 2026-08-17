@@ -1,0 +1,19 @@
+{
+  "title": "Design HashSet",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/design-hashset/submissions/2109643869/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 1509,
+  "memory": 53172000,
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Linked List",
+    "Design",
+    "Hash Function"
+  ],
+  "acceptedAt": "2026-08-17T04:16:16.000Z",
+  "contest": null,
+  "problemId": "design-hashset"
+}
