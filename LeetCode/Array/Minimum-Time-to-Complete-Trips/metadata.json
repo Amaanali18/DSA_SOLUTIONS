@@ -1,0 +1,16 @@
+{
+  "title": "Minimum Time to Complete Trips",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/minimum-time-to-complete-trips/submissions/2109676038/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 82,
+  "memory": 90768000,
+  "tags": [
+    "Array",
+    "Binary Search"
+  ],
+  "acceptedAt": "2026-08-17T04:50:48.000Z",
+  "contest": null,
+  "problemId": "minimum-time-to-complete-trips"
+}
