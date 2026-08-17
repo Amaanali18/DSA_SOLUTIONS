@@ -1,0 +1,16 @@
+{
+  "title": "Reverse Words in a String",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/reverse-words-in-a-string/submissions/2109615548/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 8,
+  "memory": 44324000,
+  "tags": [
+    "Two Pointers",
+    "String"
+  ],
+  "acceptedAt": "2026-08-17T03:37:53.000Z",
+  "contest": null,
+  "problemId": "reverse-words-in-a-string"
+}
