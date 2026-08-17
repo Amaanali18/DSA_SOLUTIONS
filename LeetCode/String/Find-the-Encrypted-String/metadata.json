@@ -1,0 +1,15 @@
+{
+  "title": "Find the Encrypted String",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/find-the-encrypted-string/submissions/2109879543/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 2,
+  "memory": 44020000,
+  "tags": [
+    "String"
+  ],
+  "acceptedAt": "2026-08-17T08:19:33.000Z",
+  "contest": null,
+  "problemId": "find-the-encrypted-string"
+}
