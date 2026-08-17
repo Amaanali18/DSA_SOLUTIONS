@@ -1,0 +1,17 @@
+{
+  "title": "Count Number of Pairs With Absolute Difference K",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/submissions/2109583602/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 7,
+  "memory": 45104000,
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Counting"
+  ],
+  "acceptedAt": "2026-08-17T02:33:34.000Z",
+  "contest": null,
+  "problemId": "count-number-of-pairs-with-absolute-difference-k"
+}
