@@ -1,0 +1,91 @@
+# Find the Largest Almost Missing Integer
+
+## Problem Information
+
+| Property | Value |
+|----------|-------|
+| **Platform** | LeetCode |
+| **Difficulty** | Easy |
+| **URL** | [https://leetcode.com/problems/find-the-largest-almost-missing-integer/submissions/2110792158/?envType=daily-question&envId=2026-08-18](https://leetcode.com/problems/find-the-largest-almost-missing-integer/submissions/2110792158/?envType=daily-question&envId=2026-08-18) |
+| **Problem ID** | find-the-largest-almost-missing-integer |
+| **Language** | Java |
+| **Runtime** | 3 ms |
+| **Memory** | 44780000 MB |
+| **Accepted At** | 2026-08-18T02:29:16.000Z |
+
+## Tags
+
+`Array`, `Hash Table`
+
+## Problem Statement
+
+You are given an integer array `nums` and an integer `k`.
+
+An integer `x` is **almost missing** from `nums` if `x` appears in *exactly* one subarray of size `k` within `nums`.
+
+Return the largest **almost missing** integer from `nums`. If no such integer exists, return `-1`.
+A **subarray** is a contiguous sequence of elements within an array.
+
+&nbsp;
+
+Example 1:**
+
+**Input:** nums = [3,9,2,1,7], k = 3
+
+**Output:** 7
+
+**Explanation:**
+
+	- 1 appears in 2 subarrays of size 3: `[9, 2, 1]` and `[2, 1, 7]`.
+
+	- 2 appears in 3 subarrays of size 3: `[3, 9, 2]`, `[9, 2, 1]`, `[2, 1, 7]`.
+
+	3 appears in 1 subarray of size 3: `[3, 9, 2]`.
+
+	7 appears in 1 subarray of size 3: `[2, 1, 7]`.
+
+	9 appears in 2 subarrays of size 3: `[3, 9, 2]`, and `[9, 2, 1]`.
+
+We return 7 since it is the largest integer that appears in exactly one subarray of size `k`.
+
+Example 2:**
+
+**Input:** nums = [3,9,7,2,1,7], k = 4
+
+**Output:** 3
+
+**Explanation:**
+
+	- 1 appears in 2 subarrays of size 4: `[9, 7, 2, 1]`, `[7, 2, 1, 7]`.
+
+	- 2 appears in 3 subarrays of size 4: `[3, 9, 7, 2]`, `[9, 7, 2, 1]`, `[7, 2, 1, 7]`.
+
+	- 3 appears in 1 subarray of size 4: `[3, 9, 7, 2]`.
+
+	- 7 appears in 3 subarrays of size 4: `[3, 9, 7, 2]`, `[9, 7, 2, 1]`, `[7, 2, 1, 7]`.
+
+	- 9 appears in 2 subarrays of size 4: `[3, 9, 7, 2]`, `[9, 7, 2, 1]`.
+
+We return 3 since it is the largest and only integer that appears in exactly one subarray of size `k`.
+
+Example 3:**
+
+**Input:** nums = [0,0], k = 1
+
+**Output:** -1
+
+**Explanation:**
+
+There is no integer that appears in only one subarray of size 1.
+
+&nbsp;
+
+**Constraints:**
+
+	- `1 &lt;= nums.length &lt;= 50`
+
+	- `0 &lt;= nums[i] &lt;= 50`
+
+	- `1 &lt;= k &lt;= nums.length`
+
+---

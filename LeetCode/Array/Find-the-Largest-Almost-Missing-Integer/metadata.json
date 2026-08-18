@@ -1,0 +1,16 @@
+{
+  "title": "Find the Largest Almost Missing Integer",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/find-the-largest-almost-missing-integer/submissions/2110792158/?envType=daily-question&envId=2026-08-18",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 3,
+  "memory": 44780000,
+  "tags": [
+    "Array",
+    "Hash Table"
+  ],
+  "acceptedAt": "2026-08-18T02:29:16.000Z",
+  "contest": null,
+  "problemId": "find-the-largest-almost-missing-integer"
+}
