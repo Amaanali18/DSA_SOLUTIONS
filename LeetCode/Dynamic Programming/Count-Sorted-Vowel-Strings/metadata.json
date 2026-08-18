@@ -1,0 +1,17 @@
+{
+  "title": "Count Sorted Vowel Strings",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/count-sorted-vowel-strings/submissions/2110800533/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 41644000,
+  "tags": [
+    "Math",
+    "Dynamic Programming",
+    "Combinatorics"
+  ],
+  "acceptedAt": "2026-08-18T02:44:53.000Z",
+  "contest": null,
+  "problemId": "count-sorted-vowel-strings"
+}
