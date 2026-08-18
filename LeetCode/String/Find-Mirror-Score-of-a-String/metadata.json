@@ -1,0 +1,18 @@
+{
+  "title": "Find Mirror Score of a String",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/find-mirror-score-of-a-string/submissions/2111435297/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 14,
+  "memory": 47732000,
+  "tags": [
+    "Hash Table",
+    "String",
+    "Stack",
+    "Simulation"
+  ],
+  "acceptedAt": "2026-08-18T13:08:17.000Z",
+  "contest": null,
+  "problemId": "find-mirror-score-of-a-string"
+}
