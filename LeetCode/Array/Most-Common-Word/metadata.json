@@ -1,0 +1,18 @@
+{
+  "title": "Most Common Word",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/most-common-word/submissions/2110858847/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 13,
+  "memory": 44076000,
+  "tags": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "acceptedAt": "2026-08-18T04:09:31.000Z",
+  "contest": null,
+  "problemId": "most-common-word"
+}
