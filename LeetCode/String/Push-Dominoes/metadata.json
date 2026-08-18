@@ -1,0 +1,17 @@
+{
+  "title": "Push Dominoes",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/push-dominoes/submissions/2110837073/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 28,
+  "memory": 48328000,
+  "tags": [
+    "Two Pointers",
+    "String",
+    "Dynamic Programming"
+  ],
+  "acceptedAt": "2026-08-18T03:44:49.000Z",
+  "contest": null,
+  "problemId": "push-dominoes"
+}
