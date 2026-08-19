@@ -1,0 +1,17 @@
+{
+  "title": "Remove Stones to Minimize the Total",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/remove-stones-to-minimize-the-total/submissions/2112627573/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 807,
+  "memory": 96268000,
+  "tags": [
+    "Array",
+    "Greedy",
+    "Heap (Priority Queue)"
+  ],
+  "acceptedAt": "2026-08-19T11:37:56.000Z",
+  "contest": null,
+  "problemId": "remove-stones-to-minimize-the-total"
+}
