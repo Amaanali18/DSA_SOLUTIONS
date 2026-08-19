@@ -1,0 +1,16 @@
+{
+  "title": "Maximum Distance in Arrays",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/maximum-distance-in-arrays/submissions/2112596683/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 9,
+  "memory": 143016000,
+  "tags": [
+    "Array",
+    "Greedy"
+  ],
+  "acceptedAt": "2026-08-19T11:01:41.000Z",
+  "contest": null,
+  "problemId": "maximum-distance-in-arrays"
+}
