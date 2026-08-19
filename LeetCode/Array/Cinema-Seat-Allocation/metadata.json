@@ -1,0 +1,18 @@
+{
+  "title": "Cinema Seat Allocation",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/cinema-seat-allocation/submissions/2112416450/?envType=daily-question&envId=2026-08-19",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 34,
+  "memory": 53184000,
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Greedy",
+    "Bit Manipulation"
+  ],
+  "acceptedAt": "2026-08-19T08:01:10.000Z",
+  "contest": null,
+  "problemId": "cinema-seat-allocation"
+}
