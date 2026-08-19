@@ -1,0 +1,17 @@
+{
+  "title": "Subarray Sums Divisible by K",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/subarray-sums-divisible-by-k/submissions/2112590752/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 3,
+  "memory": 48740000,
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+  ],
+  "acceptedAt": "2026-08-19T10:55:21.000Z",
+  "contest": null,
+  "problemId": "subarray-sums-divisible-by-k"
+}
