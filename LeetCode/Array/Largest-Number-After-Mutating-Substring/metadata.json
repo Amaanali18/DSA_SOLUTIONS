@@ -1,0 +1,17 @@
+{
+  "title": "Largest Number After Mutating Substring",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/largest-number-after-mutating-substring/submissions/2112622576/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 10,
+  "memory": 48024000,
+  "tags": [
+    "Array",
+    "String",
+    "Greedy"
+  ],
+  "acceptedAt": "2026-08-19T11:31:49.000Z",
+  "contest": null,
+  "problemId": "largest-number-after-mutating-substring"
+}
