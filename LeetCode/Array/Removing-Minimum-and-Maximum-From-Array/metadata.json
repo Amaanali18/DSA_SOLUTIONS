@@ -1,0 +1,16 @@
+{
+  "title": "Removing Minimum and Maximum From Array",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/removing-minimum-and-maximum-from-array/submissions/2113380758/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 3,
+  "memory": 86548000,
+  "tags": [
+    "Array",
+    "Greedy"
+  ],
+  "acceptedAt": "2026-08-20T03:20:07.000Z",
+  "contest": null,
+  "problemId": "removing-minimum-and-maximum-from-array"
+}
