@@ -1,0 +1,16 @@
+{
+  "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/submissions/2113397666/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 3,
+  "memory": 71380000,
+  "tags": [
+    "Array",
+    "Sliding Window"
+  ],
+  "acceptedAt": "2026-08-20T03:46:00.000Z",
+  "contest": null,
+  "problemId": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold"
+}
