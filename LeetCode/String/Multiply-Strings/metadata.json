@@ -1,0 +1,17 @@
+{
+  "title": "Multiply Strings",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/multiply-strings/submissions/2113447526/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 3,
+  "memory": 43500000,
+  "tags": [
+    "Math",
+    "String",
+    "Simulation"
+  ],
+  "acceptedAt": "2026-08-20T04:39:18.000Z",
+  "contest": null,
+  "problemId": "multiply-strings"
+}
