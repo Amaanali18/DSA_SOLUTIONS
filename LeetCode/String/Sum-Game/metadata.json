@@ -1,0 +1,18 @@
+{
+  "title": "Sum Game",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/sum-game/submissions/2117274392/?envType=daily-question&envId=2026-08-23",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 8,
+  "memory": 46656000,
+  "tags": [
+    "Math",
+    "String",
+    "Greedy",
+    "Game Theory"
+  ],
+  "acceptedAt": "2026-08-23T11:31:01.000Z",
+  "contest": null,
+  "problemId": "sum-game"
+}
