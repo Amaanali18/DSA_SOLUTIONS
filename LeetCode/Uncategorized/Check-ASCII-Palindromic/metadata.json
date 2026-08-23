@@ -1,0 +1,13 @@
+{
+  "title": "Check ASCII Palindromic",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/check-ascii-palindromic/submissions/2117275518/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 43660000,
+  "tags": [],
+  "acceptedAt": "2026-08-23T11:32:18.000Z",
+  "contest": null,
+  "problemId": "check-ascii-palindromic"
+}
