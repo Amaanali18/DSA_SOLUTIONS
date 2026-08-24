@@ -1,0 +1,16 @@
+{
+  "title": "Count Dominant Indices",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/count-dominant-indices/submissions/2117937214/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 46116000,
+  "tags": [
+    "Array",
+    "Enumeration"
+  ],
+  "acceptedAt": "2026-08-24T02:58:18.000Z",
+  "contest": null,
+  "problemId": "count-dominant-indices"
+}
