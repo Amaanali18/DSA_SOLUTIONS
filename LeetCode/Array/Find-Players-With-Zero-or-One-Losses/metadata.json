@@ -1,0 +1,18 @@
+{
+  "title": "Find Players With Zero or One Losses",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/find-players-with-zero-or-one-losses/submissions/2117955989/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 69,
+  "memory": 162468000,
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Counting"
+  ],
+  "acceptedAt": "2026-08-24T03:36:29.000Z",
+  "contest": null,
+  "problemId": "find-players-with-zero-or-one-losses"
+}
