@@ -1,0 +1,16 @@
+{
+  "title": "Unique Number of Occurrences",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/unique-number-of-occurrences/submissions/2118009686/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 2,
+  "memory": 43572000,
+  "tags": [
+    "Array",
+    "Hash Table"
+  ],
+  "acceptedAt": "2026-08-24T04:51:45.000Z",
+  "contest": null,
+  "problemId": "unique-number-of-occurrences"
+}
