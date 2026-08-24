@@ -1,0 +1,17 @@
+{
+  "title": "Find All Anagrams in a String",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/2117933812/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 11,
+  "memory": 46804000,
+  "tags": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "acceptedAt": "2026-08-24T02:50:30.000Z",
+  "contest": null,
+  "problemId": "find-all-anagrams-in-a-string"
+}
