@@ -1,0 +1,18 @@
+{
+  "title": "Number of Good Pairs",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/number-of-good-pairs/submissions/2118000263/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 42936000,
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Counting"
+  ],
+  "acceptedAt": "2026-08-24T04:40:31.000Z",
+  "contest": null,
+  "problemId": "number-of-good-pairs"
+}
