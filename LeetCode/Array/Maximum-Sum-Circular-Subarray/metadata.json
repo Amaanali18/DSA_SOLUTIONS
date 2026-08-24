@@ -1,0 +1,19 @@
+{
+  "title": "Maximum Sum Circular Subarray",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/maximum-sum-circular-subarray/submissions/2117996642/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 7,
+  "memory": 50712000,
+  "tags": [
+    "Array",
+    "Divide and Conquer",
+    "Dynamic Programming",
+    "Queue",
+    "Monotonic Queue"
+  ],
+  "acceptedAt": "2026-08-24T04:36:01.000Z",
+  "contest": null,
+  "problemId": "maximum-sum-circular-subarray"
+}
