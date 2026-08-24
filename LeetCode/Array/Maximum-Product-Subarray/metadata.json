@@ -1,0 +1,16 @@
+{
+  "title": "Maximum Product Subarray",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/maximum-product-subarray/submissions/2118005076/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 47292000,
+  "tags": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "acceptedAt": "2026-08-24T04:46:28.000Z",
+  "contest": null,
+  "problemId": "maximum-product-subarray"
+}
