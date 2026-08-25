@@ -1,0 +1,16 @@
+{
+  "title": "Smallest Missing Multiple of K",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/smallest-missing-multiple-of-k/submissions/2119132425/?envType=daily-question&envId=2026-08-25",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 2,
+  "memory": 45028000,
+  "tags": [
+    "Array",
+    "Hash Table"
+  ],
+  "acceptedAt": "2026-08-25T03:56:57.000Z",
+  "contest": null,
+  "problemId": "smallest-missing-multiple-of-k"
+}
