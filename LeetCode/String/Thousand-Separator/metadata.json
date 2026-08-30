@@ -1,0 +1,15 @@
+{
+  "title": "Thousand Separator",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/thousand-separator/submissions/2125139754/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 42564000,
+  "tags": [
+    "String"
+  ],
+  "acceptedAt": "2026-08-30T14:40:44.000Z",
+  "contest": null,
+  "problemId": "thousand-separator"
+}
