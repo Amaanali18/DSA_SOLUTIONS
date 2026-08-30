@@ -1,0 +1,13 @@
+{
+  "title": "Count Integers Appearing in a Single Block",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/count-integers-appearing-in-a-single-block/submissions/2125108652/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 46568000,
+  "tags": [],
+  "acceptedAt": "2026-08-30T14:08:36.000Z",
+  "contest": null,
+  "problemId": "count-integers-appearing-in-a-single-block"
+}
