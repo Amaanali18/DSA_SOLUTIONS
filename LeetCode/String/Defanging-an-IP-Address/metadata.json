@@ -1,0 +1,15 @@
+{
+  "title": "Defanging an IP Address",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/defanging-an-ip-address/submissions/2126286919/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 42984000,
+  "tags": [
+    "String"
+  ],
+  "acceptedAt": "2026-08-31T15:51:32.000Z",
+  "contest": null,
+  "problemId": "defanging-an-ip-address"
+}
