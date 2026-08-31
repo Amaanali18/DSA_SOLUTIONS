@@ -1,0 +1,17 @@
+{
+  "title": "Subarray Sum Equals K",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/subarray-sum-equals-k/submissions/2125613897/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 23,
+  "memory": 48620000,
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+  ],
+  "acceptedAt": "2026-08-31T03:18:35.000Z",
+  "contest": null,
+  "problemId": "subarray-sum-equals-k"
+}
