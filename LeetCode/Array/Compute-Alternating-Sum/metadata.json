@@ -1,0 +1,16 @@
+{
+  "title": "Compute Alternating Sum",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/compute-alternating-sum/submissions/2126290301/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 46452000,
+  "tags": [
+    "Array",
+    "Simulation"
+  ],
+  "acceptedAt": "2026-08-31T15:54:35.000Z",
+  "contest": null,
+  "problemId": "compute-alternating-sum"
+}
