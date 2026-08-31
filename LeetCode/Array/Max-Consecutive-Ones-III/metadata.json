@@ -1,0 +1,18 @@
+{
+  "title": "Max Consecutive Ones III",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/max-consecutive-ones-iii/submissions/2125596987/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 3,
+  "memory": 51980000,
+  "tags": [
+    "Array",
+    "Binary Search",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "acceptedAt": "2026-08-31T02:43:56.000Z",
+  "contest": null,
+  "problemId": "max-consecutive-ones-iii"
+}
