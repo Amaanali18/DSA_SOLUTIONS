@@ -1,0 +1,17 @@
+{
+  "title": "Maximum Points You Can Obtain from Cards",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/submissions/2126857351/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 2,
+  "memory": 61988000,
+  "tags": [
+    "Array",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "acceptedAt": "2026-09-01T05:51:25.000Z",
+  "contest": null,
+  "problemId": "maximum-points-you-can-obtain-from-cards"
+}
