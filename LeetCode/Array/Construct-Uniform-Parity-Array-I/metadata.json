@@ -1,0 +1,16 @@
+{
+  "title": "Construct Uniform Parity Array I",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/construct-uniform-parity-array-i/submissions/2128157347/?envType=daily-question&envId=2026-09-02",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 45016000,
+  "tags": [
+    "Array",
+    "Math"
+  ],
+  "acceptedAt": "2026-09-02T07:37:17.000Z",
+  "contest": null,
+  "problemId": "construct-uniform-parity-array-i"
+}
