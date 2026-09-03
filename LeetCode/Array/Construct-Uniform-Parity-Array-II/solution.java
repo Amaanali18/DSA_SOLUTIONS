@@ -1,0 +1,9 @@
+class Solution {
+    public boolean uniformArray(int[] nums1) {
+        int smallestOdd = Integer.MAX_VALUE;
+        for(int x : nums1) if((x & 1)==1 && x<smallestOdd) smallestOdd=x;
+        if(smallestOdd == Integer.MAX_VALUE) return true;
+        for(int x : nums1) if((x & 1)==0 && x<smallestOdd) return false;
+        return true;
+    }
+}
