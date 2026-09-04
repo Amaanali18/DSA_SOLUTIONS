@@ -1,0 +1,16 @@
+{
+  "title": "Smallest Stable Index II",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/smallest-stable-index-ii/submissions/2130732398/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 4,
+  "memory": 133528000,
+  "tags": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "acceptedAt": "2026-09-04T13:25:18.000Z",
+  "contest": null,
+  "problemId": "smallest-stable-index-ii"
+}
