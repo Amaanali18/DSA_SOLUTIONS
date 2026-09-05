@@ -1,0 +1,17 @@
+{
+  "title": "N-th Tribonacci Number",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/n-th-tribonacci-number/submissions/2131248617/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 42312000,
+  "tags": [
+    "Math",
+    "Dynamic Programming",
+    "Memoization"
+  ],
+  "acceptedAt": "2026-09-05T03:20:21.000Z",
+  "contest": null,
+  "problemId": "n-th-tribonacci-number"
+}
