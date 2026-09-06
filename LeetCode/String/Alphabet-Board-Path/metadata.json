@@ -1,0 +1,16 @@
+{
+  "title": "Alphabet Board Path",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/alphabet-board-path/submissions/2132524504/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 42496000,
+  "tags": [
+    "Hash Table",
+    "String"
+  ],
+  "acceptedAt": "2026-09-06T06:22:18.000Z",
+  "contest": null,
+  "problemId": "alphabet-board-path"
+}
