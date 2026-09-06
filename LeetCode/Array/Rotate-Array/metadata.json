@@ -1,0 +1,17 @@
+{
+  "title": "Rotate Array",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/rotate-array/submissions/2132535582/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 5,
+  "memory": 268448000,
+  "tags": [
+    "Array",
+    "Math",
+    "Two Pointers"
+  ],
+  "acceptedAt": "2026-09-06T06:33:35.000Z",
+  "contest": null,
+  "problemId": "rotate-array"
+}
