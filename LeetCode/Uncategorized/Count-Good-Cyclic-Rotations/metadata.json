@@ -1,0 +1,13 @@
+{
+  "title": "Count Good Cyclic Rotations",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/count-good-cyclic-rotations/submissions/2132506010/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 5,
+  "memory": 70776000,
+  "tags": [],
+  "acceptedAt": "2026-09-06T06:03:16.000Z",
+  "contest": null,
+  "problemId": "count-good-cyclic-rotations"
+}
