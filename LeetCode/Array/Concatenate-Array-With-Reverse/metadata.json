@@ -1,0 +1,16 @@
+{
+  "title": "Concatenate Array With Reverse",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/concatenate-array-with-reverse/submissions/2132511364/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 47272000,
+  "tags": [
+    "Array",
+    "Simulation"
+  ],
+  "acceptedAt": "2026-09-06T06:08:57.000Z",
+  "contest": null,
+  "problemId": "concatenate-array-with-reverse"
+}
