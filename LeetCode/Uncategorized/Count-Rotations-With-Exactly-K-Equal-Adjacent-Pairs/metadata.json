@@ -1,0 +1,13 @@
+{
+  "title": "Count Rotations With Exactly K Equal Adjacent Pairs",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/count-rotations-with-exactly-k-equal-adjacent-pairs/submissions/2132506653/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 15,
+  "memory": 44044000,
+  "tags": [],
+  "acceptedAt": "2026-09-06T06:03:56.000Z",
+  "contest": null,
+  "problemId": "count-rotations-with-exactly-k-equal-adjacent-pairs"
+}
