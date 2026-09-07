@@ -1,0 +1,18 @@
+{
+  "title": "Final Element After Subarray Deletions",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/final-element-after-subarray-deletions/submissions/2133940628/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 114068000,
+  "tags": [
+    "Array",
+    "Math",
+    "Brainteaser",
+    "Game Theory"
+  ],
+  "acceptedAt": "2026-09-07T13:44:58.000Z",
+  "contest": null,
+  "problemId": "final-element-after-subarray-deletions"
+}
