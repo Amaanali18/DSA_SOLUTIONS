@@ -1,0 +1,16 @@
+{
+  "title": "Find the Smallest Balanced Index",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/find-the-smallest-balanced-index/submissions/2133960266/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 3,
+  "memory": 143236000,
+  "tags": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "acceptedAt": "2026-09-07T14:03:06.000Z",
+  "contest": null,
+  "problemId": "find-the-smallest-balanced-index"
+}
