@@ -1,0 +1,17 @@
+{
+  "title": "Count Nodes Equal to Average of Subtree",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/submissions/2137069081/?envType=daily-question&envId=2026-09-10",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 45572000,
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "acceptedAt": "2026-09-10T05:03:50.000Z",
+  "contest": null,
+  "problemId": "count-nodes-equal-to-average-of-subtree"
+}
