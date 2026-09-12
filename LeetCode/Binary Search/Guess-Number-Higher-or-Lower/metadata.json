@@ -1,0 +1,16 @@
+{
+  "title": "Guess Number Higher or Lower",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/guess-number-higher-or-lower/submissions/2139178441/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 42208000,
+  "tags": [
+    "Binary Search",
+    "Interactive"
+  ],
+  "acceptedAt": "2026-09-12T05:56:34.000Z",
+  "contest": null,
+  "problemId": "guess-number-higher-or-lower"
+}
