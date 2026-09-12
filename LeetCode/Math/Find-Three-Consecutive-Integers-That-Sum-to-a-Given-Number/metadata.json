@@ -1,0 +1,16 @@
+{
+  "title": "Find Three Consecutive Integers That Sum to a Given Number",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/submissions/2139181795/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 43264000,
+  "tags": [
+    "Math",
+    "Simulation"
+  ],
+  "acceptedAt": "2026-09-12T06:00:18.000Z",
+  "contest": null,
+  "problemId": "find-three-consecutive-integers-that-sum-to-a-given-number"
+}
