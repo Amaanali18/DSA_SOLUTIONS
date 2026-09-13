@@ -1,0 +1,13 @@
+{
+  "title": "Cyclically Shift Rows and Columns",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/cyclically-shift-rows-and-columns/submissions/2140630204/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 47460000,
+  "tags": [],
+  "acceptedAt": "2026-09-13T13:16:33.000Z",
+  "contest": null,
+  "problemId": "cyclically-shift-rows-and-columns"
+}
