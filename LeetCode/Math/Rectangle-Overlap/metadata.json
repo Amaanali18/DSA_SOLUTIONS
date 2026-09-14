@@ -1,0 +1,16 @@
+{
+  "title": "Rectangle Overlap",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/rectangle-overlap/submissions/2141183792/?envType=daily-question&envId=2026-09-14",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 42304000,
+  "tags": [
+    "Math",
+    "Geometry"
+  ],
+  "acceptedAt": "2026-09-14T04:40:38.000Z",
+  "contest": null,
+  "problemId": "rectangle-overlap"
+}
