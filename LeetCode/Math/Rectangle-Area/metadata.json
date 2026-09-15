@@ -1,0 +1,16 @@
+{
+  "title": "Rectangle Area",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/rectangle-area/submissions/2142125667/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 2,
+  "memory": 44180000,
+  "tags": [
+    "Math",
+    "Geometry"
+  ],
+  "acceptedAt": "2026-09-15T03:12:18.000Z",
+  "contest": null,
+  "problemId": "rectangle-area"
+}
