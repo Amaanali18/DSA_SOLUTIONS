@@ -1,0 +1,18 @@
+{
+  "title": "Find Positive Integer Solution for a Given Equation",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/submissions/2143185747/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 2,
+  "memory": 42844000,
+  "tags": [
+    "Math",
+    "Two Pointers",
+    "Binary Search",
+    "Interactive"
+  ],
+  "acceptedAt": "2026-09-16T02:57:39.000Z",
+  "contest": null,
+  "problemId": "find-positive-integer-solution-for-a-given-equation"
+}
