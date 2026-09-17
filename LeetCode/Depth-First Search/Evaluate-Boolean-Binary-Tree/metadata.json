@@ -1,0 +1,17 @@
+{
+  "title": "Evaluate Boolean Binary Tree",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/evaluate-boolean-binary-tree/submissions/2144252465/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 46516000,
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "acceptedAt": "2026-09-17T03:35:45.000Z",
+  "contest": null,
+  "problemId": "evaluate-boolean-binary-tree"
+}
