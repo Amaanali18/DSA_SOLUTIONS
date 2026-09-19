@@ -1,0 +1,16 @@
+{
+  "title": "Circle and Rectangle Overlapping",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/circle-and-rectangle-overlapping/submissions/2146216207/?envType=daily-question&envId=2026-09-19",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 42336000,
+  "tags": [
+    "Math",
+    "Geometry"
+  ],
+  "acceptedAt": "2026-09-19T02:13:49.000Z",
+  "contest": null,
+  "problemId": "circle-and-rectangle-overlapping"
+}
