@@ -1,0 +1,16 @@
+{
+  "title": "Reverse Degree of a String",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/reverse-degree-of-a-string/submissions/2147646480/?envType=daily-question&envId=2026-09-20",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 43912000,
+  "tags": [
+    "String",
+    "Simulation"
+  ],
+  "acceptedAt": "2026-09-20T12:00:01.000Z",
+  "contest": null,
+  "problemId": "reverse-degree-of-a-string"
+}
