@@ -1,0 +1,19 @@
+{
+  "title": "Minimum Operations to Reduce X to Zero",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/submissions/2150564261/?envType=daily-question&envId=2026-09-23",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 4,
+  "memory": 102156000,
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "acceptedAt": "2026-09-23T06:39:58.000Z",
+  "contest": null,
+  "problemId": "minimum-operations-to-reduce-x-to-zero"
+}
