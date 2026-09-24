@@ -1,0 +1,16 @@
+{
+  "title": "Smallest Index With Digit Sum Equal to Index",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/submissions/2151661497/?envType=daily-question&envId=2026-09-24",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 45236000,
+  "tags": [
+    "Array",
+    "Math"
+  ],
+  "acceptedAt": "2026-09-24T06:13:19.000Z",
+  "contest": null,
+  "problemId": "smallest-index-with-digit-sum-equal-to-index"
+}
