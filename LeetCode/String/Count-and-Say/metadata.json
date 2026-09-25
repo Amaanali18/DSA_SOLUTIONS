@@ -1,0 +1,15 @@
+{
+  "title": "Count and Say",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/count-and-say/submissions/2152531062/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 2,
+  "memory": 42960000,
+  "tags": [
+    "String"
+  ],
+  "acceptedAt": "2026-09-25T02:19:33.000Z",
+  "contest": null,
+  "problemId": "count-and-say"
+}
