@@ -1,0 +1,18 @@
+{
+  "title": "Minimum Depth of Binary Tree",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/2152566117/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 5,
+  "memory": 82092000,
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "acceptedAt": "2026-09-25T03:37:43.000Z",
+  "contest": null,
+  "problemId": "minimum-depth-of-binary-tree"
+}
