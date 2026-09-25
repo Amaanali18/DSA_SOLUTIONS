@@ -1,0 +1,17 @@
+{
+  "title": "Find the Array Concatenation Value",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/find-the-array-concatenation-value/submissions/2152649717/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 43024000,
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Simulation"
+  ],
+  "acceptedAt": "2026-09-25T05:26:51.000Z",
+  "contest": null,
+  "problemId": "find-the-array-concatenation-value"
+}
