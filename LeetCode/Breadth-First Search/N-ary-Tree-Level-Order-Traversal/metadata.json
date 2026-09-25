@@ -1,0 +1,16 @@
+{
+  "title": "N-ary Tree Level Order Traversal",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/n-ary-tree-level-order-traversal/submissions/2152626688/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 3,
+  "memory": 46480000,
+  "tags": [
+    "Tree",
+    "Breadth-First Search"
+  ],
+  "acceptedAt": "2026-09-25T04:59:22.000Z",
+  "contest": null,
+  "problemId": "n-ary-tree-level-order-traversal"
+}
