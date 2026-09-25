@@ -1,0 +1,17 @@
+{
+  "title": "Binary Tree Level Order Traversal II",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/binary-tree-level-order-traversal-ii/submissions/2152614877/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 44660000,
+  "tags": [
+    "Tree",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "acceptedAt": "2026-09-25T04:45:03.000Z",
+  "contest": null,
+  "problemId": "binary-tree-level-order-traversal-ii"
+}
