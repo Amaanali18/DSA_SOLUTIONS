@@ -1,0 +1,17 @@
+{
+  "title": "Evaluate the Bracket Pairs of a String",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/submissions/2153450917/?envType=daily-question&envId=2026-09-26",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 34,
+  "memory": 86544000,
+  "tags": [
+    "Array",
+    "Hash Table",
+    "String"
+  ],
+  "acceptedAt": "2026-09-26T02:28:22.000Z",
+  "contest": null,
+  "problemId": "evaluate-the-bracket-pairs-of-a-string"
+}
