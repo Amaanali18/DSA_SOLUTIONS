@@ -1,0 +1,18 @@
+{
+  "title": "First Letter to Appear Twice",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/first-letter-to-appear-twice/submissions/2155495181/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 42064000,
+  "tags": [
+    "Hash Table",
+    "String",
+    "Bit Manipulation",
+    "Counting"
+  ],
+  "acceptedAt": "2026-09-28T03:17:13.000Z",
+  "contest": null,
+  "problemId": "first-letter-to-appear-twice"
+}
