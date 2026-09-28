@@ -1,0 +1,19 @@
+{
+  "title": "Subtree of Another Tree",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/subtree-of-another-tree/submissions/2155502304/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 3,
+  "memory": 46280000,
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "String Matching",
+    "Binary Tree",
+    "Hash Function"
+  ],
+  "acceptedAt": "2026-09-28T03:29:18.000Z",
+  "contest": null,
+  "problemId": "subtree-of-another-tree"
+}
