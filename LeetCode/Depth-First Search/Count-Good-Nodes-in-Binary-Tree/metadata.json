@@ -1,0 +1,18 @@
+{
+  "title": "Count Good Nodes in Binary Tree",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/count-good-nodes-in-binary-tree/submissions/2155511623/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 2,
+  "memory": 57216000,
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "acceptedAt": "2026-09-28T03:44:06.000Z",
+  "contest": null,
+  "problemId": "count-good-nodes-in-binary-tree"
+}
