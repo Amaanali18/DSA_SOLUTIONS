@@ -1,0 +1,19 @@
+{
+  "title": "Populating Next Right Pointers in Each Node",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/submissions/2156565163/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 2,
+  "memory": 46564000,
+  "tags": [
+    "Linked List",
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "acceptedAt": "2026-09-29T02:36:44.000Z",
+  "contest": null,
+  "problemId": "populating-next-right-pointers-in-each-node"
+}
