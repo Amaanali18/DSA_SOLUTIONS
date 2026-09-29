@@ -1,0 +1,15 @@
+{
+  "title": "Product Sales Analysis I",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/product-sales-analysis-i/submissions/2156850659/",
+  "difficulty": "Easy",
+  "language": "MySQL",
+  "runtime": 1517,
+  "memory": 0,
+  "tags": [
+    "Database"
+  ],
+  "acceptedAt": "2026-09-29T08:11:07.000Z",
+  "contest": null,
+  "problemId": "product-sales-analysis-i"
+}
