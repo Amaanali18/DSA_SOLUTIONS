@@ -1,0 +1,15 @@
+{
+  "title": "Article Views I",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/article-views-i/submissions/2156836726/",
+  "difficulty": "Easy",
+  "language": "MySQL",
+  "runtime": 545,
+  "memory": 0,
+  "tags": [
+    "Database"
+  ],
+  "acceptedAt": "2026-09-29T07:51:14.000Z",
+  "contest": null,
+  "problemId": "article-views-i"
+}
