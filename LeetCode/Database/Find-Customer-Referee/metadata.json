@@ -1,0 +1,15 @@
+{
+  "title": "Find Customer Referee",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/find-customer-referee/submissions/2156828959/",
+  "difficulty": "Easy",
+  "language": "MySQL",
+  "runtime": 531,
+  "memory": 0,
+  "tags": [
+    "Database"
+  ],
+  "acceptedAt": "2026-09-29T07:39:46.000Z",
+  "contest": null,
+  "problemId": "find-customer-referee"
+}
