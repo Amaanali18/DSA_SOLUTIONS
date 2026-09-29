@@ -1,0 +1,15 @@
+{
+  "title": "Big Countries",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/big-countries/submissions/2156835212/",
+  "difficulty": "Easy",
+  "language": "MySQL",
+  "runtime": 306,
+  "memory": 0,
+  "tags": [
+    "Database"
+  ],
+  "acceptedAt": "2026-09-29T07:48:51.000Z",
+  "contest": null,
+  "problemId": "big-countries"
+}
