@@ -1,0 +1,15 @@
+{
+  "title": "Invalid Tweets",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/invalid-tweets/submissions/2156839590/",
+  "difficulty": "Easy",
+  "language": "MySQL",
+  "runtime": 594,
+  "memory": 0,
+  "tags": [
+    "Database"
+  ],
+  "acceptedAt": "2026-09-29T07:55:19.000Z",
+  "contest": null,
+  "problemId": "invalid-tweets"
+}
