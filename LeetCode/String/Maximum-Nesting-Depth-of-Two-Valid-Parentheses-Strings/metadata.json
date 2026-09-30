@@ -1,0 +1,17 @@
+{
+  "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/submissions/2157691216/?envType=daily-question&envId=2026-09-30",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 45388000,
+  "tags": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+  ],
+  "acceptedAt": "2026-09-30T02:44:53.000Z",
+  "contest": null,
+  "problemId": "maximum-nesting-depth-of-two-valid-parentheses-strings"
+}
