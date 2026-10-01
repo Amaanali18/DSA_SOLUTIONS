@@ -1,0 +1,17 @@
+{
+  "title": "Valid Parentheses",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/valid-parentheses/submissions/2158701596/?envType=daily-question&envId=2026-10-01",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 139,
+  "memory": 46936000,
+  "tags": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+  ],
+  "acceptedAt": "2026-10-01T02:22:41.000Z",
+  "contest": null,
+  "problemId": "valid-parentheses"
+}
