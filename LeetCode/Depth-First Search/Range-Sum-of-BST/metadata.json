@@ -1,0 +1,18 @@
+{
+  "title": "Range Sum of BST",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/range-sum-of-bst/submissions/2158749247/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 54020000,
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "acceptedAt": "2026-10-01T03:48:23.000Z",
+  "contest": null,
+  "problemId": "range-sum-of-bst"
+}
