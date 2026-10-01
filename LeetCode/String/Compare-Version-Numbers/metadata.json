@@ -1,0 +1,16 @@
+{
+  "title": "Compare Version Numbers",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/compare-version-numbers/submissions/2158816819/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 42976000,
+  "tags": [
+    "Two Pointers",
+    "String"
+  ],
+  "acceptedAt": "2026-10-01T05:01:33.000Z",
+  "contest": null,
+  "problemId": "compare-version-numbers"
+}
