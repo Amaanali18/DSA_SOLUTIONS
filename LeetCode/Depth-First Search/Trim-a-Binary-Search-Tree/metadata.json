@@ -1,0 +1,18 @@
+{
+  "title": "Trim a Binary Search Tree",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/trim-a-binary-search-tree/submissions/2158715022/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 46876000,
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "acceptedAt": "2026-10-01T02:50:41.000Z",
+  "contest": null,
+  "problemId": "trim-a-binary-search-tree"
+}
