@@ -1,0 +1,18 @@
+{
+  "title": "Generate Parentheses",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/generate-parentheses/submissions/2159828357/?envType=daily-question&envId=2026-10-02",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 44048000,
+  "tags": [
+    "String",
+    "Dynamic Programming",
+    "Backtracking",
+    "Bracket Sequences"
+  ],
+  "acceptedAt": "2026-10-02T05:51:22.000Z",
+  "contest": null,
+  "problemId": "generate-parentheses"
+}
