@@ -1,0 +1,17 @@
+{
+  "title": "Score of Parentheses",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/score-of-parentheses/submissions/2163289793/?envType=daily-question&envId=2026-10-05",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 42840000,
+  "tags": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+  ],
+  "acceptedAt": "2026-10-05T15:40:17.000Z",
+  "contest": null,
+  "problemId": "score-of-parentheses"
+}
