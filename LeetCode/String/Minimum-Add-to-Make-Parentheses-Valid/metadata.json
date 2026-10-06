@@ -1,0 +1,18 @@
+{
+  "title": "Minimum Add to Make Parentheses Valid",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/submissions/2164160107/?envType=daily-question&envId=2026-10-06",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 42784000,
+  "tags": [
+    "String",
+    "Stack",
+    "Greedy",
+    "Bracket Sequences"
+  ],
+  "acceptedAt": "2026-10-06T11:16:04.000Z",
+  "contest": null,
+  "problemId": "minimum-add-to-make-parentheses-valid"
+}
