@@ -1,0 +1,17 @@
+{
+  "title": "Jump Game II",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/jump-game-ii/submissions/2164971377/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 47280000,
+  "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "acceptedAt": "2026-10-07T06:05:51.000Z",
+  "contest": null,
+  "problemId": "jump-game-ii"
+}
