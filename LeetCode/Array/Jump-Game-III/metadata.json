@@ -1,0 +1,17 @@
+{
+  "title": "Jump Game III",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/jump-game-iii/description/",
+  "difficulty": "Medium",
+  "language": "java",
+  "runtime": 0,
+  "memory": 0,
+  "tags": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search"
+  ],
+  "acceptedAt": "2026-10-07T06:11:18.225Z",
+  "contest": null,
+  "problemId": "jump-game-iii"
+}
