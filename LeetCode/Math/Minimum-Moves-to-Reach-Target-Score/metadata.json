@@ -1,0 +1,16 @@
+{
+  "title": "Minimum Moves to Reach Target Score",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/minimum-moves-to-reach-target-score/submissions/2167265803/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 42180000,
+  "tags": [
+    "Math",
+    "Greedy"
+  ],
+  "acceptedAt": "2026-10-09T12:16:48.000Z",
+  "contest": null,
+  "problemId": "minimum-moves-to-reach-target-score"
+}
