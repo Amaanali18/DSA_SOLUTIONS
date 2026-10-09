@@ -1,0 +1,19 @@
+{
+  "title": "Rank Teams by Votes",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/rank-teams-by-votes/submissions/2167278674/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 18,
+  "memory": 46804000,
+  "tags": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Sorting",
+    "Counting"
+  ],
+  "acceptedAt": "2026-10-09T12:37:34.000Z",
+  "contest": null,
+  "problemId": "rank-teams-by-votes"
+}
