@@ -1,0 +1,18 @@
+{
+  "title": "Smallest Number in Infinite Set",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/smallest-number-in-infinite-set/submissions/2167271589/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 10,
+  "memory": 47552000,
+  "tags": [
+    "Hash Table",
+    "Design",
+    "Heap (Priority Queue)",
+    "Ordered Set"
+  ],
+  "acceptedAt": "2026-10-09T12:26:14.000Z",
+  "contest": null,
+  "problemId": "smallest-number-in-infinite-set"
+}
