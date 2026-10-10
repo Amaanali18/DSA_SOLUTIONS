@@ -1,0 +1,20 @@
+{
+  "title": "Relative Sort Array",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/relative-sort-array/submissions/2167832703/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 5,
+  "memory": 43904000,
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Counting Sort",
+    "Quicksort",
+    "Bubble Sort"
+  ],
+  "acceptedAt": "2026-10-10T05:08:58.000Z",
+  "contest": null,
+  "problemId": "relative-sort-array"
+}
