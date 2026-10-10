@@ -1,0 +1,18 @@
+{
+  "title": "Minimum Time Difference",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/minimum-time-difference/submissions/2167818888/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 10,
+  "memory": 48136000,
+  "tags": [
+    "Array",
+    "Math",
+    "String",
+    "Sorting"
+  ],
+  "acceptedAt": "2026-10-10T04:48:34.000Z",
+  "contest": null,
+  "problemId": "minimum-time-difference"
+}
