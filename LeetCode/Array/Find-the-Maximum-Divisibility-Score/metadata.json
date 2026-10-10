@@ -1,0 +1,15 @@
+{
+  "title": "Find the Maximum Divisibility Score",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/find-the-maximum-divisibility-score/submissions/2167814291/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 175,
+  "memory": 47352000,
+  "tags": [
+    "Array"
+  ],
+  "acceptedAt": "2026-10-10T04:41:51.000Z",
+  "contest": null,
+  "problemId": "find-the-maximum-divisibility-score"
+}
