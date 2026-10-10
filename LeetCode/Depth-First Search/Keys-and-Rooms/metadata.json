@@ -1,0 +1,17 @@
+{
+  "title": "Keys and Rooms",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/keys-and-rooms/submissions/2167835728/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 3,
+  "memory": 46448000,
+  "tags": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
+  "acceptedAt": "2026-10-10T05:13:27.000Z",
+  "contest": null,
+  "problemId": "keys-and-rooms"
+}
