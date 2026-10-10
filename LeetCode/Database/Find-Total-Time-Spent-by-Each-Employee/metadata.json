@@ -1,0 +1,15 @@
+{
+  "title": "Find Total Time Spent by Each Employee",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/find-total-time-spent-by-each-employee/submissions/2167820770/",
+  "difficulty": "Easy",
+  "language": "MySQL",
+  "runtime": 632,
+  "memory": 0,
+  "tags": [
+    "Database"
+  ],
+  "acceptedAt": "2026-10-10T04:51:21.000Z",
+  "contest": null,
+  "problemId": "find-total-time-spent-by-each-employee"
+}
