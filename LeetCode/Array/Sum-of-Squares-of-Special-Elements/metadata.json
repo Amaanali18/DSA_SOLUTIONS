@@ -1,0 +1,16 @@
+{
+  "title": "Sum of Squares of Special Elements ",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/sum-of-squares-of-special-elements/submissions/2169415933/?envType=daily-question&envId=2026-10-11",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 46584000,
+  "tags": [
+    "Array",
+    "Enumeration"
+  ],
+  "acceptedAt": "2026-10-11T15:41:38.000Z",
+  "contest": null,
+  "problemId": "sum-of-squares-of-special-elements"
+}
