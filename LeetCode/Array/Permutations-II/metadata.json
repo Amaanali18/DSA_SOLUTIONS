@@ -1,0 +1,17 @@
+{
+  "title": "Permutations II",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/permutations-ii/submissions/2170716903/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 3,
+  "memory": 46616000,
+  "tags": [
+    "Array",
+    "Backtracking",
+    "Sorting"
+  ],
+  "acceptedAt": "2026-10-13T02:26:35.000Z",
+  "contest": null,
+  "problemId": "permutations-ii"
+}
