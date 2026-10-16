@@ -1,0 +1,15 @@
+{
+  "title": "Maximum Ascending Subarray Sum",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/maximum-ascending-subarray-sum/submissions/2173667436/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 42164000,
+  "tags": [
+    "Array"
+  ],
+  "acceptedAt": "2026-10-16T08:02:20.000Z",
+  "contest": null,
+  "problemId": "maximum-ascending-subarray-sum"
+}
