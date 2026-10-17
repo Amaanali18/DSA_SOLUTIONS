@@ -1,0 +1,16 @@
+{
+  "title": "String Without AAA or BBB",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/string-without-aaa-or-bbb/submissions/2174543620/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 2,
+  "memory": 42120000,
+  "tags": [
+    "String",
+    "Greedy"
+  ],
+  "acceptedAt": "2026-10-17T12:20:04.000Z",
+  "contest": null,
+  "problemId": "string-without-aaa-or-bbb"
+}
