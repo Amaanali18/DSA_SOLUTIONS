@@ -1,0 +1,17 @@
+{
+  "title": "Contiguous Array",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/contiguous-array/submissions/2174558977/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 26,
+  "memory": 64872000,
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+  ],
+  "acceptedAt": "2026-10-17T12:46:15.000Z",
+  "contest": null,
+  "problemId": "contiguous-array"
+}
