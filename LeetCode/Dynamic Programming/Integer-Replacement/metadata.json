@@ -1,0 +1,18 @@
+{
+  "title": "Integer Replacement",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/integer-replacement/submissions/2175090332/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 6,
+  "memory": 41260000,
+  "tags": [
+    "Dynamic Programming",
+    "Greedy",
+    "Bit Manipulation",
+    "Memoization"
+  ],
+  "acceptedAt": "2026-10-18T04:15:49.000Z",
+  "contest": null,
+  "problemId": "integer-replacement"
+}
