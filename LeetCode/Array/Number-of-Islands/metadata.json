@@ -1,0 +1,19 @@
+{
+  "title": "Number of Islands",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/number-of-islands/submissions/2175309484/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 3,
+  "memory": 51992000,
+  "tags": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix"
+  ],
+  "acceptedAt": "2026-10-18T10:40:25.000Z",
+  "contest": null,
+  "problemId": "number-of-islands"
+}
