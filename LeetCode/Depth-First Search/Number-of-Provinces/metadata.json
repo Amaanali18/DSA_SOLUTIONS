@@ -1,0 +1,18 @@
+{
+  "title": "Number of Provinces",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/number-of-provinces/submissions/2175305588/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 46808000,
+  "tags": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "acceptedAt": "2026-10-18T10:33:41.000Z",
+  "contest": null,
+  "problemId": "number-of-provinces"
+}
