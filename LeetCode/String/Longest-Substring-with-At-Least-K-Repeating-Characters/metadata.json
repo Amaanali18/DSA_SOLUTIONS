@@ -1,0 +1,18 @@
+{
+  "title": "Longest Substring with At Least K Repeating Characters",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/submissions/2175067622/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 70,
+  "memory": 47624000,
+  "tags": [
+    "Hash Table",
+    "String",
+    "Divide and Conquer",
+    "Sliding Window"
+  ],
+  "acceptedAt": "2026-10-18T03:45:58.000Z",
+  "contest": null,
+  "problemId": "longest-substring-with-at-least-k-repeating-characters"
+}
