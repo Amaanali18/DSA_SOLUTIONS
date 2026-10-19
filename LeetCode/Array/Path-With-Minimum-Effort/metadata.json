@@ -1,0 +1,22 @@
+{
+  "title": "Path With Minimum Effort",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/path-with-minimum-effort/submissions/2176171962/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 39,
+  "memory": 47556000,
+  "tags": [
+    "Array",
+    "Binary Search",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Heap (Priority Queue)",
+    "Matrix",
+    "Dijkstra's Algorithm"
+  ],
+  "acceptedAt": "2026-10-19T11:36:55.000Z",
+  "contest": null,
+  "problemId": "path-with-minimum-effort"
+}
