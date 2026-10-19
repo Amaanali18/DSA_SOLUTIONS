@@ -1,0 +1,19 @@
+{
+  "title": "Number of Enclaves",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/number-of-enclaves/submissions/2175879328/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 10,
+  "memory": 58816000,
+  "tags": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix"
+  ],
+  "acceptedAt": "2026-10-19T04:22:07.000Z",
+  "contest": null,
+  "problemId": "number-of-enclaves"
+}
