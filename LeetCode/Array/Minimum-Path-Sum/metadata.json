@@ -1,0 +1,17 @@
+{
+  "title": "Minimum Path Sum",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/minimum-path-sum/submissions/2176944208/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 20,
+  "memory": 47920000,
+  "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
+  "acceptedAt": "2026-10-20T09:47:56.000Z",
+  "contest": null,
+  "problemId": "minimum-path-sum"
+}
