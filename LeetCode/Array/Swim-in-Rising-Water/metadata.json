@@ -1,0 +1,23 @@
+{
+  "title": "Swim in Rising Water",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/swim-in-rising-water/submissions/2176964464/",
+  "difficulty": "Hard",
+  "language": "Java",
+  "runtime": 269,
+  "memory": 46916000,
+  "tags": [
+    "Array",
+    "Binary Search",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Minimax",
+    "Heap (Priority Queue)",
+    "Matrix",
+    "Dijkstra's Algorithm"
+  ],
+  "acceptedAt": "2026-10-20T10:19:24.000Z",
+  "contest": null,
+  "problemId": "swim-in-rising-water"
+}
