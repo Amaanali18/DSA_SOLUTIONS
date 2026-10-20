@@ -1,0 +1,18 @@
+{
+  "title": "Path Sum II",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/path-sum-ii/submissions/2176951391/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 44988000,
+  "tags": [
+    "Backtracking",
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "acceptedAt": "2026-10-20T09:59:02.000Z",
+  "contest": null,
+  "problemId": "path-sum-ii"
+}
