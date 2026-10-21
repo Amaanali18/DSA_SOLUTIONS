@@ -1,0 +1,15 @@
+{
+  "title": "Minimum Operations to Sort a String",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/minimum-operations-to-sort-a-string/submissions/2177747340/?envType=daily-question&envId=2026-10-21",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 11,
+  "memory": 46552000,
+  "tags": [
+    "String"
+  ],
+  "acceptedAt": "2026-10-21T08:04:04.000Z",
+  "contest": null,
+  "problemId": "minimum-operations-to-sort-a-string"
+}
