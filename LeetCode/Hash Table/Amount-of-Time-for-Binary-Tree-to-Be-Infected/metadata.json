@@ -1,11 +1,11 @@
 {
   "title": "Amount of Time for Binary Tree to Be Infected",
   "platform": "LeetCode",
-  "url": "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/submissions/2177572476/",
+  "url": "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/submissions/2177572685/",
   "difficulty": "Medium",
   "language": "Java",
-  "runtime": 69,
-  "memory": 120104000,
+  "runtime": 89,
+  "memory": 120288000,
   "tags": [
     "Hash Table",
     "Tree",
@@ -13,7 +13,7 @@
     "Breadth-First Search",
     "Binary Tree"
   ],
-  "acceptedAt": "2026-10-21T04:01:56.000Z",
+  "acceptedAt": "2026-10-21T04:02:16.000Z",
   "contest": null,
   "problemId": "amount-of-time-for-binary-tree-to-be-infected"
 }

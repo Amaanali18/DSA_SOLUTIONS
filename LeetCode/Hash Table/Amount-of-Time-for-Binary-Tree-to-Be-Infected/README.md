@@ -6,12 +6,12 @@
 |----------|-------|
 | **Platform** | LeetCode |
 | **Difficulty** | Medium |
-| **URL** | [https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/submissions/2177572476/](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/submissions/2177572476/) |
+| **URL** | [https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/submissions/2177572685/](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/submissions/2177572685/) |
 | **Problem ID** | amount-of-time-for-binary-tree-to-be-infected |
 | **Language** | Java |
-| **Runtime** | 69 ms |
-| **Memory** | 120104000 MB |
-| **Accepted At** | 2026-10-21T04:01:56.000Z |
+| **Runtime** | 89 ms |
+| **Memory** | 120288000 MB |
+| **Accepted At** | 2026-10-21T04:02:16.000Z |
 
 ## Tags
 

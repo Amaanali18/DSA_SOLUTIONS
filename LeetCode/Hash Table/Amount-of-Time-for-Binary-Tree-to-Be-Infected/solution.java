@@ -18,7 +18,7 @@ class Solution {
         TreeNode target = null;
         Queue<TreeNode> q = new LinkedList<>();
         HashMap<Integer,TreeNode> map = new HashMap<>();
-        map.put(root.val,new TreeNode(-1));
+        map.put(3,new TreeNode(-1));
         q.offer(root);
         while(!q.isEmpty()){
             TreeNode t = q.poll();
