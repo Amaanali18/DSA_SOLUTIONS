@@ -1,0 +1,17 @@
+{
+  "title": "Maximum Subarray",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/maximum-subarray/submissions/2178918281/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 76496000,
+  "tags": [
+    "Array",
+    "Divide and Conquer",
+    "Dynamic Programming"
+  ],
+  "acceptedAt": "2026-10-22T15:11:23.000Z",
+  "contest": null,
+  "problemId": "maximum-subarray"
+}
