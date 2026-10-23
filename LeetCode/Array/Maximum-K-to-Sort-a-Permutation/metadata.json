@@ -1,0 +1,16 @@
+{
+  "title": "Maximum K to Sort a Permutation",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/maximum-k-to-sort-a-permutation/submissions/2179785483/?envType=daily-question&envId=2026-10-23",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 2,
+  "memory": 110236000,
+  "tags": [
+    "Array",
+    "Bit Manipulation"
+  ],
+  "acceptedAt": "2026-10-23T15:43:49.000Z",
+  "contest": null,
+  "problemId": "maximum-k-to-sort-a-permutation"
+}
