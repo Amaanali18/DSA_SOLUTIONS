@@ -1,0 +1,18 @@
+{
+  "title": "Number of Operations to Make Network Connected",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/description/",
+  "difficulty": "Medium",
+  "language": "java",
+  "runtime": 0,
+  "memory": 0,
+  "tags": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "acceptedAt": "2026-10-23T15:50:30.208Z",
+  "contest": null,
+  "problemId": "number-of-operations-to-make-network-connected"
+}
