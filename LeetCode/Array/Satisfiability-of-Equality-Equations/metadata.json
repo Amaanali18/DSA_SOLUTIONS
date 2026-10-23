@@ -1,0 +1,18 @@
+{
+  "title": "Satisfiability of Equality Equations",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/satisfiability-of-equality-equations/submissions/2179807848/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 43108000,
+  "tags": [
+    "Array",
+    "String",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "acceptedAt": "2026-10-23T16:11:22.000Z",
+  "contest": null,
+  "problemId": "satisfiability-of-equality-equations"
+}
