@@ -1,0 +1,19 @@
+{
+  "title": "Word Ladder II",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/word-ladder-ii/submissions/2180373734/",
+  "difficulty": "Hard",
+  "language": "Java",
+  "runtime": 16,
+  "memory": 46004000,
+  "tags": [
+    "Hash Table",
+    "String",
+    "Backtracking",
+    "Breadth-First Search",
+    "Bidirectional Search"
+  ],
+  "acceptedAt": "2026-10-24T11:16:59.000Z",
+  "contest": null,
+  "problemId": "word-ladder-ii"
+}
