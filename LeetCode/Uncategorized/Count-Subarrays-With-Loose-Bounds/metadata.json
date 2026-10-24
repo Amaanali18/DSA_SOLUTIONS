@@ -1,0 +1,13 @@
+{
+  "title": "Count Subarrays With Loose Bounds",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/contest/biweekly-contest-194/problems/count-subarrays-with-loose-bounds/submissions/2180540859/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 7,
+  "memory": 196124000,
+  "tags": [],
+  "acceptedAt": "2026-10-24T14:47:45.000Z",
+  "contest": null,
+  "problemId": "count-subarrays-with-loose-bounds"
+}
