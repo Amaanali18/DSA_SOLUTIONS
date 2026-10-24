@@ -1,0 +1,16 @@
+{
+  "title": "Count Days Spent Together",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/count-days-spent-together/submissions/2180187941/?envType=daily-question&envId=2026-10-24",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 41436000,
+  "tags": [
+    "Math",
+    "String"
+  ],
+  "acceptedAt": "2026-10-24T06:07:03.000Z",
+  "contest": null,
+  "problemId": "count-days-spent-together"
+}
