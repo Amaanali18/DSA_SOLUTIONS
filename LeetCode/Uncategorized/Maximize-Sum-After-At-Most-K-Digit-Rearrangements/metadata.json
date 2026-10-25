@@ -1,0 +1,13 @@
+{
+  "title": "Maximize Sum After At Most K Digit Rearrangements",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/contest/weekly-contest-525/problems/maximize-sum-after-at-most-k-digit-rearrangements/submissions/2180978388/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 153,
+  "memory": 108608000,
+  "tags": [],
+  "acceptedAt": "2026-10-25T02:50:03.000Z",
+  "contest": null,
+  "problemId": "maximize-sum-after-at-most-k-digit-rearrangements"
+}
