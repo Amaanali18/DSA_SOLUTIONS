@@ -1,0 +1,19 @@
+{
+  "title": "Count Islands With Total Value Divisible by K",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/submissions/2181850262/?envType=daily-question&envId=2026-10-26",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 19,
+  "memory": 111744000,
+  "tags": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix"
+  ],
+  "acceptedAt": "2026-10-26T03:07:17.000Z",
+  "contest": null,
+  "problemId": "count-islands-with-total-value-divisible-by-k"
+}
