@@ -1,0 +1,20 @@
+{
+  "title": "Is Graph Bipartite?",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/is-graph-bipartite/submissions/2181841500/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 46708000,
+  "tags": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory",
+    "Graph Coloring",
+    "Bipartite Graph"
+  ],
+  "acceptedAt": "2026-10-26T02:45:09.000Z",
+  "contest": null,
+  "problemId": "is-graph-bipartite"
+}
