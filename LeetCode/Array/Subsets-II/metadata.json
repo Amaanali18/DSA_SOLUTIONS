@@ -1,0 +1,17 @@
+{
+  "title": "Subsets II",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/subsets-ii/submissions/2182898973/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 4,
+  "memory": 44400000,
+  "tags": [
+    "Array",
+    "Backtracking",
+    "Bit Manipulation"
+  ],
+  "acceptedAt": "2026-10-27T07:41:58.000Z",
+  "contest": null,
+  "problemId": "subsets-ii"
+}
