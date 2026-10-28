@@ -1,0 +1,16 @@
+{
+  "title": "House Robber II",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/house-robber-ii/submissions/2184004444/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 42412000,
+  "tags": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "acceptedAt": "2026-10-28T15:01:57.000Z",
+  "contest": null,
+  "problemId": "house-robber-ii"
+}
