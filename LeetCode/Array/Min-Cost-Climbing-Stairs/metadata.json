@@ -1,0 +1,16 @@
+{
+  "title": "Min Cost Climbing Stairs",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/min-cost-climbing-stairs/submissions/2183764550/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 44316000,
+  "tags": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "acceptedAt": "2026-10-28T08:54:52.000Z",
+  "contest": null,
+  "problemId": "min-cost-climbing-stairs"
+}
