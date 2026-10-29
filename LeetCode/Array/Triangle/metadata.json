@@ -1,0 +1,16 @@
+{
+  "title": "Triangle",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/triangle/submissions/2184384316/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 45116000,
+  "tags": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "acceptedAt": "2026-10-29T03:30:19.000Z",
+  "contest": null,
+  "problemId": "triangle"
+}
