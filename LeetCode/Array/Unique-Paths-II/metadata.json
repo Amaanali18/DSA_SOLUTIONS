@@ -1,0 +1,17 @@
+{
+  "title": "Unique Paths II",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/unique-paths-ii/submissions/2184366847/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 42880000,
+  "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
+  "acceptedAt": "2026-10-29T02:45:20.000Z",
+  "contest": null,
+  "problemId": "unique-paths-ii"
+}
