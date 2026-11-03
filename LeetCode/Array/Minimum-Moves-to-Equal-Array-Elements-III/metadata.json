@@ -1,0 +1,16 @@
+{
+  "title": "Minimum Moves to Equal Array Elements III",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/submissions/2188339331/?envType=daily-question&envId=2026-11-03",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 2,
+  "memory": 45932000,
+  "tags": [
+    "Array",
+    "Math"
+  ],
+  "acceptedAt": "2026-11-03T06:15:14.000Z",
+  "contest": null,
+  "problemId": "minimum-moves-to-equal-array-elements-iii"
+}
