@@ -1,0 +1,13 @@
+{
+  "title": "Minimum Value of Merged Integers",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/minimum-value-of-merged-integers/submissions/2189439837/",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 7,
+  "memory": 45344000,
+  "tags": [],
+  "acceptedAt": "2026-11-04T15:25:14.000Z",
+  "contest": null,
+  "problemId": "minimum-value-of-merged-integers"
+}
