@@ -1,0 +1,16 @@
+{
+  "title": "Next Permutation",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/next-permutation/submissions/2189440693/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 44212000,
+  "tags": [
+    "Array",
+    "Two Pointers"
+  ],
+  "acceptedAt": "2026-11-04T15:25:51.000Z",
+  "contest": null,
+  "problemId": "next-permutation"
+}
