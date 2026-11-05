@@ -1,0 +1,16 @@
+{
+  "title": "Simplify Path",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/simplify-path/submissions/2189985089/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 10,
+  "memory": 44776000,
+  "tags": [
+    "String",
+    "Stack"
+  ],
+  "acceptedAt": "2026-11-05T10:13:26.000Z",
+  "contest": null,
+  "problemId": "simplify-path"
+}
