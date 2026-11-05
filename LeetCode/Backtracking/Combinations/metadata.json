@@ -1,0 +1,15 @@
+{
+  "title": "Combinations",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/combinations/submissions/2189974596/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 20,
+  "memory": 97400000,
+  "tags": [
+    "Backtracking"
+  ],
+  "acceptedAt": "2026-11-05T09:53:42.000Z",
+  "contest": null,
+  "problemId": "combinations"
+}
