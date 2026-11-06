@@ -1,0 +1,17 @@
+{
+  "title": "Sum Root to Leaf Numbers",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/2190659079/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 42440000,
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "acceptedAt": "2026-11-06T11:24:07.000Z",
+  "contest": null,
+  "problemId": "sum-root-to-leaf-numbers"
+}
