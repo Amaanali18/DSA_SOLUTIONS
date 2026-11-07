@@ -1,0 +1,16 @@
+{
+  "title": "Bulb Switcher",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/bulb-switcher/submissions/2191306565/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 41584000,
+  "tags": [
+    "Math",
+    "Brainteaser"
+  ],
+  "acceptedAt": "2026-11-07T14:10:23.000Z",
+  "contest": null,
+  "problemId": "bulb-switcher"
+}
