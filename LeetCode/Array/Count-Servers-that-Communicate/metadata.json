@@ -1,0 +1,20 @@
+{
+  "title": "Count Servers that Communicate",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/count-servers-that-communicate/submissions/2191763717/?envType=daily-question&envId=2026-11-08",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 2,
+  "memory": 54596000,
+  "tags": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix",
+    "Counting"
+  ],
+  "acceptedAt": "2026-11-08T06:04:53.000Z",
+  "contest": null,
+  "problemId": "count-servers-that-communicate"
+}
