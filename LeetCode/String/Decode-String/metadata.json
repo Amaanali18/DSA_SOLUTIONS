@@ -1,0 +1,17 @@
+{
+  "title": "Decode String",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/decode-string/submissions/2192529100/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 42140000,
+  "tags": [
+    "String",
+    "Stack",
+    "Recursion"
+  ],
+  "acceptedAt": "2026-11-09T14:16:03.000Z",
+  "contest": null,
+  "problemId": "decode-string"
+}
