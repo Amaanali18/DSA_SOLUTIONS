@@ -1,0 +1,16 @@
+{
+  "title": "Climbing Stairs II",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/climbing-stairs-ii/submissions/2193052772/?envType=daily-question&envId=2026-11-10",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 15,
+  "memory": 108740000,
+  "tags": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "acceptedAt": "2026-11-10T09:09:45.000Z",
+  "contest": null,
+  "problemId": "climbing-stairs-ii"
+}
