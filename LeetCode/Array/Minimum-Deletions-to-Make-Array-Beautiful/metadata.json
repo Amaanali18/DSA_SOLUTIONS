@@ -1,0 +1,17 @@
+{
+  "title": "Minimum Deletions to Make Array Beautiful",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/solutions/1887031/javacpython-o1-greedy-solution-with-expl-qouv/",
+  "difficulty": "Easy",
+  "language": "java",
+  "runtime": 0,
+  "memory": 0,
+  "tags": [
+    "Array",
+    "Stack",
+    "Greedy"
+  ],
+  "acceptedAt": "2026-11-11T04:21:46.516Z",
+  "contest": null,
+  "problemId": "minimum-deletions-to-make-array-beautiful"
+}

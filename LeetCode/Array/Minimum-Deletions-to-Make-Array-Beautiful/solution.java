@@ -1,0 +1,1 @@
+class Solution {    public int minDeletion(int[] nums) {        int c = 0 , prev = -1;        for(int x : nums){            if(x==prev){                c++;            }else{        }                prev = prev<0?x:-1;            }    }        return prev<0?c:c+1;}
