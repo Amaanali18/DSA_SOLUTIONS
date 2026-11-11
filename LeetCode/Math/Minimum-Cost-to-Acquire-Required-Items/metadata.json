@@ -1,0 +1,16 @@
+{
+  "title": "Minimum Cost to Acquire Required Items",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/minimum-cost-to-acquire-required-items/submissions/2193590909/?envType=daily-question&envId=2026-11-11",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 2,
+  "memory": 42212000,
+  "tags": [
+    "Math",
+    "Greedy"
+  ],
+  "acceptedAt": "2026-11-11T04:13:00.000Z",
+  "contest": null,
+  "problemId": "minimum-cost-to-acquire-required-items"
+}
