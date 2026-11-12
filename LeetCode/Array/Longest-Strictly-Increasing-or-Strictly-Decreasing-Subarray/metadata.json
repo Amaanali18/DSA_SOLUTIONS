@@ -1,0 +1,15 @@
+{
+  "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/submissions/2194330267/?envType=daily-question&envId=2026-11-12",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 2,
+  "memory": 43684000,
+  "tags": [
+    "Array"
+  ],
+  "acceptedAt": "2026-11-12T04:44:42.000Z",
+  "contest": null,
+  "problemId": "longest-strictly-increasing-or-strictly-decreasing-subarray"
+}
