@@ -1,0 +1,17 @@
+{
+  "title": "Minimum Positive Sum Subarray ",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/minimum-positive-sum-subarray/submissions/2195656729/?envType=daily-question&envId=2026-11-14",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 2,
+  "memory": 45520000,
+  "tags": [
+    "Array",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "acceptedAt": "2026-11-14T03:39:28.000Z",
+  "contest": null,
+  "problemId": "minimum-positive-sum-subarray"
+}
