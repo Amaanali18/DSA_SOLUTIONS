@@ -1,0 +1,18 @@
+{
+  "title": "Number of Sub-arrays With Odd Sum",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/submissions/2196395526/?envType=daily-question&envId=2026-11-15",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 8,
+  "memory": 81560000,
+  "tags": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Prefix Sum"
+  ],
+  "acceptedAt": "2026-11-15T04:51:32.000Z",
+  "contest": null,
+  "problemId": "number-of-sub-arrays-with-odd-sum"
+}
