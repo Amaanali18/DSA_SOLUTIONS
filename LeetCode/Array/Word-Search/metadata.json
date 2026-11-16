@@ -1,0 +1,19 @@
+{
+  "title": "Word Search",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/word-search/submissions/2197275612/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 160,
+  "memory": 42672000,
+  "tags": [
+    "Array",
+    "String",
+    "Backtracking",
+    "Depth-First Search",
+    "Matrix"
+  ],
+  "acceptedAt": "2026-11-16T12:01:20.000Z",
+  "contest": null,
+  "problemId": "word-search"
+}
