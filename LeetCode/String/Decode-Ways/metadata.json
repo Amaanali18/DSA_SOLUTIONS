@@ -1,0 +1,16 @@
+{
+  "title": "Decode Ways",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/decode-ways/submissions/2197260845/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 42716000,
+  "tags": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "acceptedAt": "2026-11-16T11:30:29.000Z",
+  "contest": null,
+  "problemId": "decode-ways"
+}
