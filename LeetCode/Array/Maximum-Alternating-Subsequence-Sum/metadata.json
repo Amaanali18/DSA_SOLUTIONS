@@ -1,0 +1,16 @@
+{
+  "title": "Maximum Alternating Subsequence Sum",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/maximum-alternating-subsequence-sum/submissions/2197264462/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 56,
+  "memory": 119108000,
+  "tags": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "acceptedAt": "2026-11-16T11:38:14.000Z",
+  "contest": null,
+  "problemId": "maximum-alternating-subsequence-sum"
+}
