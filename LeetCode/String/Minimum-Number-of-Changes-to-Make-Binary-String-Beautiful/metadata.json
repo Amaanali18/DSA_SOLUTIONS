@@ -1,0 +1,15 @@
+{
+  "title": "Minimum Number of Changes to Make Binary String Beautiful",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/submissions/2198744449/?envType=daily-question&envId=2026-11-18",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 3,
+  "memory": 46140000,
+  "tags": [
+    "String"
+  ],
+  "acceptedAt": "2026-11-18T14:36:56.000Z",
+  "contest": null,
+  "problemId": "minimum-number-of-changes-to-make-binary-string-beautiful"
+}
