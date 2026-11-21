@@ -1,0 +1,17 @@
+{
+  "title": "Palindrome Partitioning",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/palindrome-partitioning/submissions/2200555198/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 8,
+  "memory": 64740000,
+  "tags": [
+    "String",
+    "Dynamic Programming",
+    "Backtracking"
+  ],
+  "acceptedAt": "2026-11-21T13:14:40.000Z",
+  "contest": null,
+  "problemId": "palindrome-partitioning"
+}
