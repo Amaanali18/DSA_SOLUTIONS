@@ -1,0 +1,15 @@
+{
+  "title": "Check if All A's Appears Before All B's",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/submissions/2201129887/?envType=daily-question&envId=2026-11-22",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 1,
+  "memory": 42040000,
+  "tags": [
+    "String"
+  ],
+  "acceptedAt": "2026-11-22T07:50:01.000Z",
+  "contest": null,
+  "problemId": "check-if-all-as-appears-before-all-bs"
+}
