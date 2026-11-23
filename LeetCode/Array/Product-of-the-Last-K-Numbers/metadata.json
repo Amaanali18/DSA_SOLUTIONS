@@ -1,0 +1,19 @@
+{
+  "title": "Product of the Last K Numbers",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/product-of-the-last-k-numbers/submissions/2201632097/?envType=daily-question&envId=2026-11-23",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 18,
+  "memory": 84196000,
+  "tags": [
+    "Array",
+    "Math",
+    "Design",
+    "Data Stream",
+    "Prefix Sum"
+  ],
+  "acceptedAt": "2026-11-23T03:55:42.000Z",
+  "contest": null,
+  "problemId": "product-of-the-last-k-numbers"
+}
