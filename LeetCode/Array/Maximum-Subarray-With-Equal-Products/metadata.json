@@ -1,0 +1,19 @@
+{
+  "title": "Maximum Subarray With Equal Products",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/maximum-subarray-with-equal-products/submissions/2202637473/?envType=daily-question&envId=2026-11-24",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 6,
+  "memory": 43228000,
+  "tags": [
+    "Array",
+    "Math",
+    "Sliding Window",
+    "Enumeration",
+    "Number Theory"
+  ],
+  "acceptedAt": "2026-11-24T14:27:01.000Z",
+  "contest": null,
+  "problemId": "maximum-subarray-with-equal-products"
+}
