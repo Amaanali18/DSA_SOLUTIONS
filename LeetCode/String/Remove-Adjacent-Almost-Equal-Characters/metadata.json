@@ -1,0 +1,17 @@
+{
+  "title": "Remove Adjacent Almost-Equal Characters",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/remove-adjacent-almost-equal-characters/submissions/2202950548/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 2,
+  "memory": 42240000,
+  "tags": [
+    "String",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "acceptedAt": "2026-11-25T03:41:50.000Z",
+  "contest": null,
+  "problemId": "remove-adjacent-almost-equal-characters"
+}
