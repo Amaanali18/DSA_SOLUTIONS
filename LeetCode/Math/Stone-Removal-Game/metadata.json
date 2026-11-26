@@ -1,0 +1,16 @@
+{
+  "title": "Stone Removal Game",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/stone-removal-game/submissions/2203656266/?envType=daily-question&envId=2026-11-26",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": 0,
+  "memory": 41436000,
+  "tags": [
+    "Math",
+    "Simulation"
+  ],
+  "acceptedAt": "2026-11-26T05:20:45.000Z",
+  "contest": null,
+  "problemId": "stone-removal-game"
+}
