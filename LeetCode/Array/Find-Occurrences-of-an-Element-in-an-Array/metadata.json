@@ -1,0 +1,16 @@
+{
+  "title": "Find Occurrences of an Element in an Array",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/submissions/2203677713/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 5,
+  "memory": 165504000,
+  "tags": [
+    "Array",
+    "Hash Table"
+  ],
+  "acceptedAt": "2026-11-26T05:54:25.000Z",
+  "contest": null,
+  "problemId": "find-occurrences-of-an-element-in-an-array"
+}
