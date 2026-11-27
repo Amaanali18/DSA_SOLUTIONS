@@ -1,0 +1,18 @@
+{
+  "title": "Maximum Width Ramp",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/maximum-width-ramp/submissions/2204623734/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 34,
+  "memory": 61284000,
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "acceptedAt": "2026-11-27T15:07:53.000Z",
+  "contest": null,
+  "problemId": "maximum-width-ramp"
+}
