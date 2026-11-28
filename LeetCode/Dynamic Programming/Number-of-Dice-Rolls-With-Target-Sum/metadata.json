@@ -1,0 +1,15 @@
+{
+  "title": "Number of Dice Rolls With Target Sum",
+  "platform": "LeetCode",
+  "url": "https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/submissions/2204980627/",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": 11,
+  "memory": 42920000,
+  "tags": [
+    "Dynamic Programming"
+  ],
+  "acceptedAt": "2026-11-28T07:08:30.000Z",
+  "contest": null,
+  "problemId": "number-of-dice-rolls-with-target-sum"
+}
